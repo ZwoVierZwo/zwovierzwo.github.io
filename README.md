@@ -1,2 +1,9 @@
-# 7homas aka ZwoVierZwo
-## Ein Franke im Internet unterwegs
+<html>
+  <head>
+    <title>7homas</title>
+  </head>
+  <body bgcolor='gray'>
+    
+  </body>
+  
+  </html>
